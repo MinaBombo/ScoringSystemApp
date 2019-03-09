@@ -1,6 +1,6 @@
-# scoring_system
+# ScoringSystemApp
 
-A new Flutter project.
+A new Scoring System Flutter project.
 
 ## Getting Started
 
